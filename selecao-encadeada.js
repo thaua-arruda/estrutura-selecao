@@ -5,5 +5,5 @@ if (dia === "Sábado" ) {
 } else if (dia === "domingo") {
     console.log("Dia de passear com a família!");
 } else {
-    console.log("Levanta e vai estudar!");
+    console.log("Levanta e vai estudar!")
 }
